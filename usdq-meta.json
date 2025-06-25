@@ -1,0 +1,7 @@
+{
+  "name": "USDQ",
+  "symbol": "USDQ",
+  "description": "USDQ is a stablecoin pegged to the Ugandan Shilling.",
+  "image": "https://raw.githubusercontent.com/DrJid/GitSharp/refs/heads/master/tools/ug-dynamic.png",
+  "decimals": 6
+}
