@@ -1,0 +1,9 @@
+NETWORK_PASSPHRASE="Test SDF Network ; September 2015"
+
+[[CURRENCIES]]
+code="ZOUK"
+issuer="GBHJM2N4XTWPDM6PW7VBBY473ZHWCDN2KTBUONERFN62JIKOMXCAKYIQ"
+display_decimals=7
+name="Zouk Token"
+desc="A community token for Zouk dance enthusiasts"
+image="https://raw.githubusercontent.com/chessa-ai/ugxc/refs/heads/main/ug-orange.png"
